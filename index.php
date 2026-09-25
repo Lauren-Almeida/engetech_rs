@@ -56,7 +56,7 @@ $services = [
             // require 'banner.php';
             require 'sobre.php';
             require 'servicos.php';
-            // require 'veiculos-atendidos.php';
+            require 'veiculos-atendidos.php';
         ?>
     </main>
 </body>
